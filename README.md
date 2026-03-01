@@ -11,6 +11,22 @@ Application de gestion de salle de sport développée en Java Swing.
 ## Utilisation
 - Lancer `dist/lancer.bat`
 - Compte par défaut : `admin` / `admin`
+  
+ ## 🔐 Récupération de mot de passe
+
+La fonctionnalité "Mot de passe oublié" permet de générer un nouveau mot de passe temporaire.
+
+**Comment ça fonctionne :**
+1. Sur l'écran de connexion, cliquez sur **"Mot de passe oublié ?"**
+2. Entrez l'email associé au compte :  
+   `hafsaajabboune@gmail.com`
+3. Un nouveau mot de passe s'affiche **directement à l'écran** (pas d'envoi par email)
+4. Utilisez ce mot de passe pour vous connecter
+
+> ⚠️ Ce nouveau mot de passe est automatiquement haché et stocké en base de données.
+
+**Email de test :** `hafsaajabboune@gmail.com
+
 ## 📋 Architecture du projet
 
 <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/df7b3372-293a-47dc-b59a-979068529d58" />
