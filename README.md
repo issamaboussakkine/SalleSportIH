@@ -25,4 +25,11 @@ Application de gestion de salle de sport développée en Java Swing.
 
 ##📹 Démo vidéo
 
+https://github.com/user-attachments/assets/ac0ed0bb-5ee4-4724-b09c-24b7686ef6f2
 
+## 👥 Auteurs
+
+- **Issam Aboussakkine**
+- **Hafsa Ajabboune**
+
+Projet réalisé dans le cadre du module **Java Swing / JDBC**.
